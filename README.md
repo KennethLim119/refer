@@ -30,9 +30,9 @@ Just imagine you would want to ask a professional for cunsultation but the locat
 ![image](images/capture.png)
 
 ### Wireframe
-![image](images/prof.png)
-![image](images/communication.png)
-![image](images/users.png)
+![prof](images/prof.png)
+![communication](images/communication.png)
+![images](images/users.png)
 
 ### Tools and Methodologies
 This applications helped us building the App

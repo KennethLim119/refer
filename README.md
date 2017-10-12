@@ -27,7 +27,7 @@ The purpose of this app is to help people to have an easier way to communicate w
 ### Problem
 Just imagine you would want to ask a professional for cunsultation but the location and time you and the professional have is inconvenient. With this, it hinders you to gain the knowledge you would want to obtain and the professional to help you.
 ### User Stories
-![image](images/capture.PNG)
+![wireframe](images/Capture.png)
 
 ### Wireframe
 ![prof](images/prof.png)

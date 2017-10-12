@@ -30,8 +30,11 @@ Just imagine you would want to ask a professional for cunsultation but the locat
 ![wireframe](images/Capture.PNG)
 
 ### Wireframe
+Landing page for professional users and their profile.
 ![prof](images/prof.PNG)
+Landing page for communcation between the anonymous users and the professional users.
 ![communication](images/communication.PNG)
+Landing page for anonymous users.
 ![images](images/Users.PNG)
 
 ### Tools and Methodologies
